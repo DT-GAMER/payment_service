@@ -1,4 +1,4 @@
-# Payment Service (Demo)
+# Interswitch Payment Service (Demo)
 
 A simplified payment processing microservice built with **Spring Boot (Java 17)**.
 It demonstrates **transaction handling, idempotency, mock payment gateway integration, and API-level security**.
