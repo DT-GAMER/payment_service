@@ -17,7 +17,7 @@ This project is designed to mimic core aspects of real-world payment systems suc
 ## ⚙️ Features
 
 * REST API to create and retrieve payments.
-* Support for different transaction types (e.g., `card`, `wallet`, `bank`).
+* Support for different transaction types (`card`, `wallet`, `bank`).
 * Idempotency key enforcement (safe retries).
 * In-memory storage (replaceable with DB).
 * Mock gateway adapter for demo purposes.
